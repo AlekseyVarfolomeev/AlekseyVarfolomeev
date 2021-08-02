@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlekseyVarfolomeev
 - 👀 I’m interested in something new
-- 🌱 I’m currently learning java and andriod sdk
+- 🌱 I’m currently learning java and android sdk
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me remlex@mail.ru
 
